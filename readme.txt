@@ -1,4 +1,4 @@
-/// Use virtualenv
+// Use virtualenv
 //Step 1: Create a virtualenv
 python3 -m venv env
 
